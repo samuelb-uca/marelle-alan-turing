@@ -8,8 +8,8 @@
 **Résumé :**
 
 Ce dépôt contient :
-- une [fiche thématique](fiche thematique.md)
-- une [fiche activité](fiche activite.md)
+- une [fiche thématique](fiche-thematique.md)
+- une [fiche activité](fiche-activite.md)
 - les [contenus à imprimer](contenus)
 
 
