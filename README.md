@@ -6,10 +6,15 @@
 **Thématiques :**
 
 **Résumé :**
- 
 
- 
+Ce dépôt contient :
+- une [fiche thématique](fiche thematique.md)
+- une [fiche activité](fiche activite.md)
+- les [contenus à imprimer](contenus)
+
+
 ## A propos
+
 Cette animation "débranchée" (sans ordinateur) a été imaginée dans le cadre du Week-End de Création d’Actions de Médiation (WECAM) autour d’Alan Turing, organisé par la Maison des Mathématiques et de l’Informatique (MMI) de Lyon en février 2022. 
 
 
