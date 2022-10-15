@@ -23,20 +23,22 @@
 ### Matériel nécessaire
 
 - sol sur lequel on peut dessiner à la craie
-~~- idéalement : deux chariots~~
-- fiches avec les rôles 
+- fiches rôles
     - rôle Marelle
     - rôle Torche
     - rôle Marteau
     - rôle Moteur ~~(x2)~~
     - rôle Transmission
-- des cartes A3 ou A4 plastifiées :
+- cartes chemin de fer A3 ou A4 plastifiées :
     - ~~rail sur le sol~~
-    - pont qui monte
-    - pont qui descend
-    - pont
-    - pont cassé
-    - nuit
+    - pont qui monte (1 exemplaire)
+    - pont qui descend (1 exemplaire)
+    - pont (5 à 7 exemplaires)
+    - pont cassé (3 à 5 exemplaires)
+    - nuit (5 à 7 exemplaires)
+    - carte Londres
+    - carte Cambridge
+- deux chariots (version 2 moteurs) ou un long tissu, sur lequel poser les cartes A3 ou A4 du chemin de fer (version 1 moteur)
 
 ~~- accessoires :~~
     ~~- marteau (en bois, en plastique)~~
