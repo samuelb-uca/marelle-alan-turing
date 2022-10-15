@@ -40,11 +40,13 @@ Un.e ou deux médiateur.ice.s pour animer l’activité
 Dessiner la marelle (voir Figure 1) au sol, à l’aide de grosses craies ou de craie en bombe (spray). Une personne doit pouvoir se tenir à l’intérieur des cases carré bleu, triangle rouge, cercle vert. Si vous n’avez pas les couleurs indiquées, faites attention à modifier les instructions pour la personne qui aura le rôle « marelle ».
 
 [![schema de la marelle à dessiner](contenu/marelle-mini.png)](contenu/marelle.png)
+
 [Figure 1. Schéma de la marelle à dessiner (cliquer pour voir en grand)](contenu/marelle.png)
 
 
 A environ une 10aine de mètres, disposer les cartes du rail entre Londres et Cambridge au sol (voir Figure 2). 
 
 ![disposition des cartes chemin de fer](contenu/chemin-1.png)
+
 Figure 2. Cartes *chemin de fer* (disposition de départ)
 
