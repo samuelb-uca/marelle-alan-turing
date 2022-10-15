@@ -1,13 +1,14 @@
 # Fiche activité Jeu de la MARELLE – machine de Turing
 
-Pour public familial 5 à 10 ~15 personnes
+**Tranches d'âges :** ...
 
-Durée 30min
+**Thématiques :** ...
 
-Un.e ou deux médiateur.ice.s pour animer l’activité
+- Activité pour un public familial, 5 à 15 personnes 
+- Durée 30min
+- Un⋅e ou deux médiateur⋅ice⋅s pour animer l’activité
 
-**Résumé**
-
+**Résumé :**  ...
 
 ## Objectifs
 
@@ -16,30 +17,35 @@ Un.e ou deux médiateur.ice.s pour animer l’activité
 - Découvrir le nom d’un des pionniers des ordinateurs : Alan Turing
 - Observer que la machine « répare » le pont dans des situations où il est cassé de façon différente (la même « dynamique » permet de calculer des choses différentes)
 
-## Matériel nécessaire
+---
+## Préparation de l’activité
+
+### Matériel nécessaire
 
 - sol sur lequel on peut dessiner à la craie
-- idéalement : deux chariots
+~~- idéalement : deux chariots~~
 - fiches avec les rôles 
     - rôle Marelle
     - rôle Torche
     - rôle Marteau
-    - rôle Moteur (x2)
-- des cartes A3 ou A4 plastifiées recto-verso :
-    - rail sur le sol
+    - rôle Moteur ~~(x2)~~
+    - rôle Transmission
+- des cartes A3 ou A4 plastifiées :
+    - ~~rail sur le sol~~
     - pont qui monte
     - pont qui descend
-    - recto-verso pont / pont cassé
-    - la nuit
-- accessoires :
-    - marteau (en bois, en plastique)
-    - lampe torche ou lampe frontale
-- accessoire bonus :
-    - petit wagon à roulette
-    - personnage d’Alan ou train
+    - pont
+    - pont cassé
+    - nuit
 
----
-## Préparation de l’activité
+~~- accessoires :~~
+    ~~- marteau (en bois, en plastique)~~
+    ~~- lampe torche ou lampe frontale~~
+~~- accessoire bonus :~~
+    ~~- petit wagon à roulette~~
+    ~~- personnage d’Alan ou train~~
+
+### Mise en place
 
 Dessiner la marelle (voir Figure 1) au sol, à l’aide de grosses craies ou de craie en bombe (spray). Une personne doit pouvoir se tenir à l’intérieur des cases carré bleu, triangle rouge, cercle vert. Si vous n’avez pas les couleurs indiquées, faites attention à modifier les instructions pour la personne qui aura le rôle « marelle ».
 
@@ -110,9 +116,11 @@ rôle torche :
 [![role torche](contenu/torche-mini.png)](contenu/torche.png)
 
 rôle moteur (x2) :
+
 [![role moteur](contenu/moteur-mini.png)](contenu/moteur.png)
 
 rôle marteau :
+
 [![role marteau](contenu/marteau-mini.png)](contenu/marteau.png)
 
 On précise que c’est "marelle" qui lancera le jeu.
@@ -125,7 +133,7 @@ Les autres personnes observent.
 
 L’animateur⋅trice peut donner des alertes mais essaie de garantir que les règles du jeu soient respectées.
 
-### 5. Deuxième trajet
+### 5. Trajet retour
 
 Il s’agit de recommencer en formant deux nouvelles équipes "tempête" et "cheminote", en redonnant les instructions nécessaires à chacune, et en rejouant le jeu de la Marelle jusqu’à ce que le pont soit réparé une seconde fois.
 **expliquer pourquoi : vivre l’expérience de l’intérieur et de l’extérieur
@@ -142,7 +150,7 @@ Peut-on toujours réparer le pont ? Même si cette pile de pont est cassée ? Ou
 
 ---
 ## Remarques / Adaptations possibles
-Alternative au dessin à la craie : il est possible d’utiliser des cerceaux / carrés / triangles colorés pour leset de la ficelle pour les flèches.
+Alternative au dessin à la craie : il est possible d’utiliser des cerceaux / carrés / triangles colorés pour les cases de la marelle et de la ficelle pour les liens.
 
 Faire dessiner la marelle par les participant.e.s
 Les feuilles peuvent s’envoler, prévoir de petits poids.
