@@ -115,7 +115,11 @@ rôle torche :
 
 [![role torche](contenu/torche-mini.png)](contenu/torche.png)
 
-rôle moteur (x2) :
+rôle transmission :
+
+[![role transmission](contenu/transmission-mini.png)](contenu/transmission.png)
+
+rôle moteur :
 
 [![role moteur](contenu/moteur-mini.png)](contenu/moteur.png)
 
