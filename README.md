@@ -10,7 +10,7 @@
 Ce dépôt contient :
 - une [fiche thématique](fiche-thematique.md)
 - une [fiche activité](fiche-activite.md)
-- les [contenus à imprimer](contenus)
+- les [contenus à imprimer](contenu/impressions-marelle-de-turing.pdf)
 
 
 ## A propos
@@ -29,6 +29,6 @@ La réutilisation de cette activité dans un cadre pédagogique et gratuit est l
 
 Pour les réutiliser dans un cadre commercial, envoyez-nous un mail pour échanger.
 
-![logo MMI](illustrations/logo-mmi.png)
+![logo MMI](logo-mmi.png)
 
-![logo Les Petits Débrouillards Aura](illustrations/logo-petitsdebrouillardsaura.png)
+![logo Les Petits Débrouillards Aura](logo-petitsdebrouillardsaura.png)
